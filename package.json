@@ -1,7 +1,7 @@
 {
-  "name": "protractor-xmlhttprequest-mock",
-  "version": "1.2.0",
-  "description": "Ajax requests mock plugin for protractor (works with Angular >= 2 also)",
+  "name": "ionic-protractor-mock",
+  "version": "1.0.0",
+  "description": "Request mock plugin for Ionic",
   "main": "lib/index.js",
   "scripts": {
     "serve-sample-apps": "./node_modules/.bin/http-server ./tests/www --silent",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krisboit/protractor-xmlhttprequest-mock.git"
+    "url": "git+https://github.com/cnpallares/protractor-xmlhttprequest-mock.git"
   },
-  "author": "Tibi Krisboi",
+  "author": "Carles",
   "bugs": {
-    "url": "https://github.com/krisboit/protractor-xmlhttprequest-mock/issues"
+    "url": "https://github.com/cnpallares/protractor-xmlhttprequest-mock/issues"
   },
-  "homepage": "https://github.com/krisboit/protractor-xmlhttprequest-mock#readme",
+  "homepage": "https://github.com/cnpallares/protractor-xmlhttprequest-mock#readme",
   "devDependencies": {
     "http-server": "^0.9.0",
     "jasmine-spec-reporter": "^3.2.0",
