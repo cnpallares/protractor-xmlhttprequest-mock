@@ -1,6 +1,6 @@
 {
   "name": "ionic-protractor-mock",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Request mock plugin for Ionic",
   "main": "lib/index.js",
   "scripts": {

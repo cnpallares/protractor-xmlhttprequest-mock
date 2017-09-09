@@ -1,11 +1,11 @@
-# protractor-xmlhttprequest-mock
-Ajax calls mocking plugin for protractor, will work with angular 2 also.
+# ionic-protractor-mock
+Request mock plugin for Ionic.
 
 A simple example of usage:
 
 ```ts
 import {browser, $} from 'protractor';
-import {MockService} from 'protractor-xmlhttprequest-mock';
+import {MockService} from 'ionic-protractor-mock';
 
 describe('the backend', () => {
   it('should reply with code 418', () => {
@@ -20,5 +20,3 @@ describe('the backend', () => {
   });
 });
 ```
-
-Other examples can be found in `tests` folder.
