@@ -4,7 +4,7 @@ export declare interface MockConfig {
     path: string,
     response: {
         status: number,
-        data: string
+        data: any
     }
 }
 
